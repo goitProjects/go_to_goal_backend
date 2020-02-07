@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7122b312.chunk.css",
+    "main.js": "/static/js/main.fa65ee94.chunk.js",
+    "main.js.map": "/static/js/main.fa65ee94.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.9a717f27.js",
+    "runtime~main.js.map": "/static/js/runtime~main.9a717f27.js.map",
+    "static/css/2.4b3442db.chunk.css": "/static/css/2.4b3442db.chunk.css",
+    "static/js/2.fe10ca3c.chunk.js": "/static/js/2.fe10ca3c.chunk.js",
+    "static/js/2.fe10ca3c.chunk.js.map": "/static/js/2.fe10ca3c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5414e765a91306c768890851c78df6be.js": "/precache-manifest.5414e765a91306c768890851c78df6be.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.4b3442db.chunk.css.map": "/static/css/2.4b3442db.chunk.css.map",
+    "static/css/main.7122b312.chunk.css.map": "/static/css/main.7122b312.chunk.css.map",
+    "static/media/ModalCongrats.module.css": "/static/media/FlagsIcon.1c2a13f9.png",
+    "static/media/add-plus-button.718c9449.svg": "/static/media/add-plus-button.718c9449.svg",
+    "static/media/close.7d4fa344.svg": "/static/media/close.7d4fa344.svg",
+    "static/media/closeEye.bd6f61b1.svg": "/static/media/closeEye.bd6f61b1.svg",
+    "static/media/NewGoal.module.css": "/static/media/decor.1b058b20.png",
+    "static/media/gift.862fe63f.svg": "/static/media/gift.862fe63f.svg",
+    "static/media/main.css": "/static/media/montserrat-v14-latin-ext_cyrillic-ext_latin_cyrillic-regular.faf441c8.eot",
+    "static/media/login-page-cover@1X.png": "/static/media/login-page-cover@1X.4b76132f.png",
+    "static/media/User.module.css": "/static/media/logout.d1e479d1.svg",
+    "static/media/modal_present.png": "/static/media/modal_present.cc19ca0e.png",
+    "static/media/openEye.6955fcfe.svg": "/static/media/openEye.6955fcfe.svg",
+    "static/media/party.e1e25daf.svg": "/static/media/party.e1e25daf.svg"
+  }
+}

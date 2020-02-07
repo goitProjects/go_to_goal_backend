@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.formWrapper {
+  height: 100vh;
+  width: 100%;
+  position: relative;
+}
+
+.form {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  display: flex;
+  flex-direction: column;
+  color: red;
+}
+
+.formComponent {
+  padding: 20px;
+}
+
+button {
+  cursor: pointer;
+  display: block;
+}
